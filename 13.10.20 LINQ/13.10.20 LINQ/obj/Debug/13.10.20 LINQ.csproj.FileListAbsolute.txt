@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\bin\Debug\13.10.20 LINQ.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\bin\Debug\13.10.20 LINQ.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\bin\Debug\13.10.20 LINQ.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\obj\Debug\13.10.20 LINQ.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\obj\Debug\13.10.20 LINQ.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\obj\Debug\13.10.20 LINQ.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.10.20 LINQ\13.10.20 LINQ\obj\Debug\13.10.20 LINQ.pdb

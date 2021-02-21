@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\bin\Debug\13.09.20 Student's press-ups.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\bin\Debug\13.09.20 Student's press-ups.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\bin\Debug\13.09.20 Student's press-ups.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\obj\Debug\13.09.20 Student's press-ups.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\obj\Debug\13.09.20 Student's press-ups.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\obj\Debug\13.09.20 Student's press-ups.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\13.09.20 Student's press-ups\13.09.20 Student's press-ups\obj\Debug\13.09.20 Student's press-ups.pdb

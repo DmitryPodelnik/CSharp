@@ -1,0 +1,14 @@
+C:\Users\inko1\Desktop\10.09.20\10.09.20\bin\Debug\10.09.20.exe.config
+C:\Users\inko1\Desktop\10.09.20\10.09.20\bin\Debug\10.09.20.exe
+C:\Users\inko1\Desktop\10.09.20\10.09.20\bin\Debug\10.09.20.pdb
+C:\Users\inko1\Desktop\10.09.20\10.09.20\obj\Debug\10.09.20.csprojAssemblyReference.cache
+C:\Users\inko1\Desktop\10.09.20\10.09.20\obj\Debug\10.09.20.csproj.CoreCompileInputs.cache
+C:\Users\inko1\Desktop\10.09.20\10.09.20\obj\Debug\10.09.20.exe
+C:\Users\inko1\Desktop\10.09.20\10.09.20\obj\Debug\10.09.20.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\bin\Debug\10.09.20.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\bin\Debug\10.09.20.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\bin\Debug\10.09.20.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\obj\Debug\10.09.20.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\obj\Debug\10.09.20.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\obj\Debug\10.09.20.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\10.09.20 Class String\10.09.20\obj\Debug\10.09.20.pdb

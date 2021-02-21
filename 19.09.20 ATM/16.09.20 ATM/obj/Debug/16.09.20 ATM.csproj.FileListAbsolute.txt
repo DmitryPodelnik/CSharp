@@ -1,0 +1,14 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\16.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\bin\Debug\16.09.20 ATM.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.09.20 ATM\16.09.20 ATM\obj\Debug\16.09.20 ATM.pdb

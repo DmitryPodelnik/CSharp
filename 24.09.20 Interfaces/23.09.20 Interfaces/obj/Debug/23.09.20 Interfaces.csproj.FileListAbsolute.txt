@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\obj\Debug\23.09.20 Interfaces.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\obj\Debug\23.09.20 Interfaces.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\bin\Debug\23.09.20 Interfaces.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\bin\Debug\23.09.20 Interfaces.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\bin\Debug\23.09.20 Interfaces.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\obj\Debug\23.09.20 Interfaces.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\23.09.20 Interfaces\23.09.20 Interfaces\obj\Debug\23.09.20 Interfaces.pdb

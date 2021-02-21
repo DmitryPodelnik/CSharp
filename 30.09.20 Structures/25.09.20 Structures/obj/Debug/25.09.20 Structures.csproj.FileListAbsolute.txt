@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\bin\Debug\25.09.20 Structures.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\bin\Debug\25.09.20 Structures.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\bin\Debug\25.09.20 Structures.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\obj\Debug\25.09.20 Structures.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\obj\Debug\25.09.20 Structures.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\obj\Debug\25.09.20 Structures.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\25.09.20 Structures\25.09.20 Structures\obj\Debug\25.09.20 Structures.pdb

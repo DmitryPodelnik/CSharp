@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\obj\Debug\09.10.20 XML.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\obj\Debug\09.10.20 XML.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\bin\Debug\09.10.20 XML.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\bin\Debug\09.10.20 XML.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\bin\Debug\09.10.20 XML.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\obj\Debug\09.10.20 XML.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\09.10.20 XML\09.10.20 XML\obj\Debug\09.10.20 XML.pdb

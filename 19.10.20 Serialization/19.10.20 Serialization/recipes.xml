@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe Id="1" complexity="Junior" time="1:00" description="Addional Feature 1 Addional Feature 2">
+    <name>1</name>
+    <ingredients>
+      <ingredient>
+        <component>Component1</component>
+        <amount>2</amount>
+        <unit>g</unit>
+      </ingredient>
+      <ingredient>
+        <component>Component2</component>
+        <amount>3</amount>
+        <unit>g</unit>
+      </ingredient>
+      <ingredient>
+        <component>Component3</component>
+        <amount>4</amount>
+        <unit>g</unit>
+      </ingredient>
+    </ingredients>
+    <preparation>
+      <step>Step 1</step>
+      <step>Step 2</step>
+      <step>Step 3</step>
+      <step>Step 4</step>
+      <step>Step 5</step>
+    </preparation>
+    <serves>3</serves>
+  </Recipe>
+</Catalog>

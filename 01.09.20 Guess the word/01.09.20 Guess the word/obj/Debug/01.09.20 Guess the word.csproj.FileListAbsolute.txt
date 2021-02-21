@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\bin\Debug\01.09.20 Guess the word.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\bin\Debug\01.09.20 Guess the word.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\bin\Debug\01.09.20 Guess the word.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\obj\Debug\01.09.20 Guess the word.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\obj\Debug\01.09.20 Guess the word.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\obj\Debug\01.09.20 Guess the word.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\01.09.20 Guess the word\01.09.20 Guess the word\obj\Debug\01.09.20 Guess the word.pdb

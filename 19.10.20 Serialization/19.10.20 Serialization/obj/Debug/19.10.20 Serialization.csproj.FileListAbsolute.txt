@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\obj\Debug\19.10.20 Serialization.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\obj\Debug\19.10.20 Serialization.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\bin\Debug\19.10.20 Serialization.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\bin\Debug\19.10.20 Serialization.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\bin\Debug\19.10.20 Serialization.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\obj\Debug\19.10.20 Serialization.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\19.10.20 Serialization\19.10.20 Serialization\obj\Debug\19.10.20 Serialization.pdb

@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\bin\Debug\18.10.20 LINQ to XML.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\bin\Debug\18.10.20 LINQ to XML.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\bin\Debug\18.10.20 LINQ to XML.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\obj\Debug\18.10.20 LINQ to XML.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\obj\Debug\18.10.20 LINQ to XML.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\obj\Debug\18.10.20 LINQ to XML.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\18.10.20 LINQ to XML\18.10.20 LINQ to XML\obj\Debug\18.10.20 LINQ to XML.pdb

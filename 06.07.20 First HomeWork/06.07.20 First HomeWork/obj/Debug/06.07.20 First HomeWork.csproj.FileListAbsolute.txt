@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\bin\Debug\06.07.20 First HomeWork.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\bin\Debug\06.07.20 First HomeWork.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\bin\Debug\06.07.20 First HomeWork.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\obj\Debug\06.07.20 First HomeWork.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\obj\Debug\06.07.20 First HomeWork.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\obj\Debug\06.07.20 First HomeWork.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Homework\06.07.20 First HomeWork\06.07.20 First HomeWork\obj\Debug\06.07.20 First HomeWork.pdb

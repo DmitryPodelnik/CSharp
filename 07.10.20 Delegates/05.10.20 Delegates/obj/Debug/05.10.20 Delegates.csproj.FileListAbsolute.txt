@@ -1,0 +1,7 @@
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\obj\Debug\05.10.20 Delegates.csprojAssemblyReference.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\obj\Debug\05.10.20 Delegates.csproj.CoreCompileInputs.cache
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\bin\Debug\05.10.20 Delegates.exe.config
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\bin\Debug\05.10.20 Delegates.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\bin\Debug\05.10.20 Delegates.pdb
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\obj\Debug\05.10.20 Delegates.exe
+D:\ШАГ\3 КУРС БАКАЛАВРАТА\C#\Solved Homework\05.10.20 Delegates\05.10.20 Delegates\obj\Debug\05.10.20 Delegates.pdb
